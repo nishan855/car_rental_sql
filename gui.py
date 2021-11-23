@@ -13,7 +13,7 @@ root.geometry("400x400")
 root.title('Car Rental Application')
 
 
-
+print ("Just testing.............")
 my_menu = Menu(root)
 root.config(menu=my_menu)
 
