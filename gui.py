@@ -85,6 +85,7 @@ def submit_cust():
     mdb.close()
     label1.grid(row=5, column=1)
 
+    print("yjjjjjjjjj")
 #################################################################################################################
 # entries for adding  new vechile
 vecid_lab = Label(vehicle_frame, text="Vehicle ID", bg="grey", font='Helvetica 20 bold').grid(row=1, column=0)
