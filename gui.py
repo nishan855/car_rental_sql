@@ -123,7 +123,6 @@ def vec_add():
     submit_vbtn = Button(vehicle_frame, text=" Add vehicle", width=5, bg="orange", command=submit_vech)
     submit_vbtn.grid(row=6, column=0, columnspan=2, pady=20, padx=100, ipadx=100)
 
-    #vgvghvghv bn jn nj hj hhkj
 
 
 # submit to add new customer
